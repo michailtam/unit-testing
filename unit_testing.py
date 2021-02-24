@@ -4,7 +4,7 @@ the argparse library and executing unit testing. The code executes three simple 
 
 1. Checks if the command line image name is the right one
 2. Checks if the training-set len is the right one
-2. Checks if the test-set len is the right one
+3. Checks if the test-set len is the right one
 
 NOTE: For simplicity, the Dataset class holds only the len of the training and test
 set and is set fixed. These values are getting calculated in real applications
